@@ -1,6 +1,8 @@
 # Interest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
+Go to the Interest folder
+After download or clone project do `npm install` in Interest folder 
 
 ## Development server
 
